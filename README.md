@@ -36,6 +36,20 @@
 
 ---
 
+### 🎓 **University Projects**
+
+| Course                                 | Name      | Description                                                                                                                                                   | Grade (0-20) |
+|----------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------| 
+| Programming |[SVG to PNG Image Converter](https://github.com/TM-1-3/SVG-To-PNG-Image-Converter)  | SVG To PNG Image Format Converter| 19,4       |
+| Databases |[Driving Exam Center Database](https://github.com/TM-1-3/Driving-Exam-Center-Database)  | SQL Relational Database for a Driving Exam Center| 15,6     |
+| Software Design and Testing Laboratory |[Space Ranger](https://github.com/TM-1-3/SpaceRanger)  | Space Ranger is a 2D Text-Based Space Shooter Game                                                                | 16,2        |
+| Algorithm Design |[Route Planning Tool](https://github.com/TM-1-3/Route-Planning-Tool)  |Fastest Route Calculator Using Dijkstra’s Algorithm | 18,3      |
+| Algorithm Design |[Delivery Truck Pallet Packing Optimization Tool](https://github.com/TM-1-3/Delivery-Truck-Pallet-Packing-Optimization-Tool)  | Delivery Truck Pallet Packing Optimization Tool Using Various Programming Approaches | 15,6 |      
+| Software Engineering |[LearnVironment](https://github.com/TM-1-3/LearnVironment)  | LearnVironment is a Environmentalism and Sustainability Learning Mobile App| 19,9       |
+| Computer Laboratory |[Wombat Maze](https://github.com/TM-1-3/WombatMaze)  | Wombat Maze is a Maze Game Implemented Using Interrupt-Driven I/O Device Drivers| 18,0     |
+| Web Languages and Technologies |[Learn2Day](https://github.com/TM-1-3/Learn2Day)  | Learn2Day is an Academic Tutoring Website| 15,1   |
+
+
 
 
 ### 📫 Contact Me
