@@ -1,3 +1,8 @@
+<div align="center">
+🌍 <a href="https://github.com/TM-1-3/TM-1-3/blob/main/README.md">English</a> | 🇵🇹 <a href="https://github.com/TM-1-3/TM-1-3-PT/blob/main/README.md">Português</a>
+</div>
+
+
 <h1 align="center"><b>Hello, I'm Tomás Morais 👋</b></h1>
 <p align="center">
   <em>Informatics and Computing Engineering Student</em>
