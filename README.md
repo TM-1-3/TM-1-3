@@ -8,7 +8,7 @@
   <a href="mailto:tomasmorais2017@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
-### 🎓 Software Engineering Student | Continuous Learner | Detail-Oriented & Motivated
+### 🎓 Informatics Engineering Student | Continuous Learner | Detail-Oriented & Motivated
 
 ---
 
