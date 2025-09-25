@@ -13,7 +13,7 @@
   <a href="mailto:tomasmorais2017@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
-<h3 align="center"><a href="https://github.com/TM-1-3/TM-1-3/blob/main/CV.pdf">Online Resume</a></h3>
+<h3 align="center"><a href="https://github.com/TM-1-3/TM-1-3/blob/main/CV-ENG.pdf">Online Resume</a></h3>
 
 ### 🎓 Informatics Engineering Student | Continuous Learner | Detail-Oriented & Motivated
 
